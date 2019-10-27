@@ -1,5 +1,5 @@
 db.sqlite3
-django_blog/__pycache__/
-django_blog/migrations/
-django_blog/__init__.py
+__pycache__/
+migrations/
+__init__.py
 blog/
